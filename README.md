@@ -57,8 +57,9 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveklohar229&theme=radical&margin-w=10&no-frame=false&column=6" alt="Trophies"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=viveklohar229&theme=algolia&no-frame=false&margin-w=10&column=6" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
@@ -69,6 +70,13 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 [![GitHub](https://img.shields.io/badge/GitHub-viveklohar229-black?style=for-the-badge&logo=github)](https://github.com/viveklohar229)
 
 ---
+
+### 🧩 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveklohar229&bg_color=0D1117&color=FF1493&line=FF1493&point=FFFFFF&area=true&hide_border=true" alt="Vivek's GitHub Activity Graph" width="95%"/>
+</p>
+
 
 ⭐ *"Code. Learn. Share. Grow."*  
 Made with ❤️ by **Vivek Vishwakarma**
