@@ -1,6 +1,6 @@
 <!-- 👋 Hi there section with animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C+DevOps+Enthusiast;Tech+Educator+on+Instagram!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1493&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C+DevOps+Enthusiast;Tech+Educator+on+Instagram!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -48,13 +48,17 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 
 ### 🔥 Contribution Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveklohar229&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=viveklohar229&theme=tokyonight&hide_border=false&background=0D1117&stroke=DD2727&ring=DD2727&fire=DD2727" alt="GitHub Streak" width="95%"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=viveklohar229&theme=tokyonight&margin-w=10&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viveklohar229&theme=radical&margin-w=10&no-frame=false&column=6" alt="Trophies"/>
+</p>
 
 ---
 
