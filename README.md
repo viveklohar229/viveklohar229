@@ -1,20 +1,23 @@
-# Hi there 👋 I'm Vivek Vishwakarma  
-
-💻 **Full Stack Developer | DevOps Enthusiast | Tech Educator on Instagram**  
-
----
-
-### 🚀 About Me
-
-I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer** from **Kanpur, India**, currently working at **KraftNexus**.  
-I’ve completed my **Bachelor of Computer Applications (BCA)** from **CSJMU University, Kanpur (2025)**.  
-
-I love building scalable, high-performance applications and exploring new technologies every day.  
-Recently, I’ve started sharing **educational content** on **Instagram**, where I teach topics like **Git, GitHub, DevOps, HTML, CSS, JavaScript, React, and Node.js** — helping beginners build a strong foundation in web development and DevOps 🚀
+<!-- 👋 Hi there section with animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C+DevOps+Enthusiast;Tech+Educator+on+Instagram!" alt="Typing SVG" />
+</h1>
 
 ---
 
-### 💻 Tech Stack
+### 💻 About Me  
+
+I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer & DevOps Enthusiast** from **Kanpur, India 🇮🇳**.  
+I’ve completed my **BCA (2025)** from **CSJMU University, Kanpur** and currently work at **KraftNexus**, where I build and maintain scalable web applications.  
+
+I also run an **Instagram page [@the_dev_vivek](https://www.instagram.com/the_dev_vivek)** where I post **educational content** on:
+> 🧠 Git, GitHub, DevOps, HTML, CSS, JavaScript, React, Node.js, and more!
+
+I believe in **learning by building** — and I share everything I learn to help others grow 🚀  
+
+---
+
+### ⚙️ Tech Stack
 
 **Frontend:**  
 HTML • CSS • JavaScript • TypeScript • React.js  
@@ -23,60 +26,45 @@ HTML • CSS • JavaScript • TypeScript • React.js
 Node.js • Express.js  
 
 **DevOps & Cloud:**  
-Git • GitHub • GitLab • Jenkins • AWS • CI/CD • Docker (Basics)  
+Git • GitHub • GitLab • Jenkins • AWS • Docker • CI/CD  
 
-**Other Skills:**  
-REST APIs • Linux • Project Deployment • Team Collaboration  
-
----
-
-### 🏢 Professional Experience
-
-**💼 KraftNexus**  
-*Full Stack Developer*  
-- Built and maintained multiple web applications for clients.  
-- Worked on real-world projects using **React**, **Node**, **AWS**, and **DevOps tools**.  
-- Managed project repositories on **GitHub** and contributed to both **personal** and **company projects**.  
+**Others:**  
+Linux • REST APIs • Project Deployment • Team Collaboration  
 
 ---
 
-### 🎓 Education
+### 🛠️ Tools & Technologies  
 
-**Bachelor of Computer Applications (BCA)**  
-📍 *CSJMU University, Kanpur*  
-📅 *Graduated: 2025*  
+![Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,gitlab,jenkins,linux,vscode,postman,figma)
 
 ---
 
-### 📚 What I’m Currently Doing
+### 📈 GitHub Stats  
 
-- 📱 Creating **educational content** on Instagram (starting with Git & GitHub tutorials).  
-- 💻 Working on **Full Stack & DevOps projects**.  
-- 🚀 Learning advanced **AWS & CI/CD pipeline** automation.  
-- 🌱 Continuously improving my **problem-solving** and **cloud computing** skills.  
-
----
-
-### 🛠️ Tools & Technologies
-
-![Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,git,github,gitlab,jenkins,linux,vscode)
-
----
-
-### 📈 GitHub Stats
-
-| ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivekVishwakarma&show_icons=true&theme=tokyonight) | ![Vivek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekVishwakarma&layout=compact&theme=tokyonight) |
+| ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveklohar229&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveklohar229&layout=compact&theme=tokyonight) |
 | --- | --- |
 
 ---
 
-### 🌐 Connect With Me
+### 🔥 Contribution Streak  
 
-[![Instagram](https://img.shields.io/badge/Instagram-@vivek__vishwakarma__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_id)
-[![GitHub](https://img.shields.io/badge/GitHub-VivekVishwakarma-black?style=for-the-badge&logo=github)](https://github.com/VivekVishwakarma)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viveklohar229&theme=tokyonight&hide_border=false)
 
 ---
 
-⭐️ *"Keep learning, keep building, and keep sharing knowledge!"*  
-Made with ❤️ by **Vivek Vishwakarma**
+### 🏆 GitHub Trophies  
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=viveklohar229&theme=tokyonight&margin-w=10&no-frame=true)
+
+---
+
+### 🌐 Connect With Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-@the__dev__vivek-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_dev_vivek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Vishwakarma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vivek-vishwakarma-176935248/)
+[![GitHub](https://img.shields.io/badge/GitHub-viveklohar229-black?style=for-the-badge&logo=github)](https://github.com/viveklohar229)
+
+---
+
+⭐ *"Code. Learn. Share. Grow."*  
+Made with ❤️ by **Vivek Vishwakarma**
