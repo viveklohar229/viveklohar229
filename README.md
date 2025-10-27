@@ -1,6 +1,7 @@
 <!-- 👋 Hi there section with animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1493&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C+DevOps+Enthusiast;Tech+Educator+on+Instagram!" alt="Typing SVG" />
+
 </h1>
 
 ---
@@ -41,8 +42,9 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 
 ### 📈 GitHub Stats  
 
-| ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveklohar229&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveklohar229&layout=compact&theme=tokyonight) |
+| ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viveklohar229&show_icons=true&theme=tokyonight&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viveklohar229&layout=compact&theme=tokyonight&cache_seconds=1800) |
 | --- | --- |
+
 
 ---
 
@@ -57,8 +59,9 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-readme-trophy.vercel.app/?username=viveklohar229&theme=algolia&no-frame=false&margin-w=10&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=viveklohar229&theme=algolia&no-frame=false&margin-w=10&column=6" alt="GitHub Trophies" />
 </p>
+
 
 
 ---
@@ -76,6 +79,7 @@ Linux • REST APIs • Project Deployment • Team Collaboration
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveklohar229&bg_color=0D1117&color=FF1493&line=FF1493&point=FFFFFF&area=true&hide_border=true" alt="Vivek's GitHub Activity Graph" width="95%"/>
 </p>
+
 
 
 ⭐ *"Code. Learn. Share. Grow."*  
