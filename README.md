@@ -11,8 +11,6 @@
 I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer & DevOps Enthusiast** from **Kanpur, India 🇮🇳**.  
 I’ve completed my **BCA (2025)** from **CSJMU University, Kanpur** and currently work at **KraftNexus**, where I build and maintain scalable web applications.  
 
-I also run an **Instagram page [@the_dev_vivek](https://www.instagram.com/the_dev_vivek)** where I post **educational content** on:
-> 🧠 Git, GitHub, DevOps, HTML, CSS, JavaScript, React, Node.js, and more!
 
 I believe in **learning by building** — and I share everything I learn to help others grow 🚀  
 
