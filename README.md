@@ -8,7 +8,7 @@
 
 ### 💻 About Me  
 
-I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer & DevOps Enthusiast** from **Kanpur, India 🇮🇳**.  
+I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer  from **Jaunpur, India 🇮🇳**.  
 I’ve completed my **BCA (2025)** from **CSJMU University, Kanpur** and currently work at **KraftNexus**, where I build and maintain scalable web applications.  
 
 
