@@ -1,6 +1,6 @@
 <!-- 👋 Hi there section with animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1493&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C+DevOps+Enthusiast;Tech+Educator+on+Instagram!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1493&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C" alt="Typing SVG" />
 
 </h1>
 
