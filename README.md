@@ -54,7 +54,7 @@ Data Cleaning • Data Analysis • ETL Pipeline • Data Visualization • KPI 
 
 ### 🛠️ Tools & Technologies  
 
-![Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,gitlab,jenkins,linux,vscode,postman,figma)
+![Tools](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,gitlab,jenkins,linux,vscode,postman,figma,python,mysql,sql,excel,powerBi)
 
 ---
 
