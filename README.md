@@ -1,34 +1,54 @@
 <!-- 👋 Hi there section with animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FF1493&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Full+Stack+Developer+%7C" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C4FF&center=true&width=600&lines=Hi+there+👋;I'm+Vivek+Vishwakarma;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
 </h1>
 
 ---
 
-### 💻 About Me  
+### 📊 About Me  
 
-I'm **Vivek Vishwakarma**, a passionate **Full Stack Developer  from **Jaunpur, India 🇮🇳**.  
-I’ve completed my **BCA (2025)** from **CSJMU University, Kanpur** and currently work at **KraftNexus**, where I build and maintain scalable web applications.  
+I'm **Vivek Vishwakarma**, an aspiring **Data Analyst** from **India 🇮🇳**.  
+I specialize in **Python, SQL, Excel, and Power BI**, with hands-on experience in building **end-to-end data analytics projects**.  
 
-
-I believe in **learning by building** — and I share everything I learn to help others grow 🚀  
+🔹 Transitioned from Frontend Development to Data Analytics  
+🔹 Skilled in data cleaning, transformation & visualization  
+🔹 Passionate about solving real-world problems using data  
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack  
 
-**Frontend:**  
-HTML • CSS • JavaScript • TypeScript • React.js  
+**Languages & Tools:**  
+Python • SQL • Excel • Power BI • Jupyter Notebook  
 
-**Backend:**  
-Node.js • Express.js  
+**Libraries:**  
+Pandas • NumPy • Matplotlib • Seaborn • Plotly  
 
-**DevOps & Cloud:**  
-Git • GitHub • GitLab • Jenkins • AWS • Docker • CI/CD  
+**Core Skills:**  
+Data Cleaning • Data Analysis • ETL Pipeline • Data Visualization • KPI Analysis  
 
-**Others:**  
-Linux • REST APIs • Project Deployment • Team Collaboration  
+---
+
+### 🚀 Featured Projects  
+
+🔹 **Sales Data Analytics Pipeline**  
+- Built end-to-end ETL pipeline using Python, SQL & Power BI  
+- Processed 10,000+ records and created KPI dashboards  
+
+🔹 **Vendor Performance Dashboard**  
+- Analyzed vendor efficiency & profitability  
+- Created SQL queries & Power BI visualizations  
+
+🔹 **Amazon Sales Dashboard**  
+- Built interactive dashboard to track global sales & profit trends  
+
+---
+
+### 🏆 Achievements  
+
+✔ Built 3+ end-to-end data analytics projects  
+✔ Hands-on experience with real-world datasets  
+✔ Strong understanding of data pipelines & dashboards  
 
 ---
 
